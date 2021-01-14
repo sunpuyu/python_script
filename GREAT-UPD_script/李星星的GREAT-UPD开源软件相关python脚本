@@ -1,0 +1,3 @@
+【download...py】包含下载dcb文件、导航文件、GNSS观测值文件
+【fcbFormatConvert.py】将GREAT-UPD计算出的文件格式转换为SGG（张小红）的文件格式
+【SiteList.py】生成sitelist文件，用于计算GREAT-UPD
